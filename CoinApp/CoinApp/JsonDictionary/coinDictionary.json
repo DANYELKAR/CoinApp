@@ -1,0 +1,116 @@
+[
+
+  {
+    "Title": "Address",
+    "Description": "Dijital para sisteminde gönderi yapýp almanýzý saðlayan noktadýr. Geleneksel para piyasalarýnda kullanýlan banka hesabýna benzer. Genellikle karþýnýza bir QR kod olarak çýkar. Ancak gerçekte harf ve rakamlardan oluþan bir dizidir. Örnek yazým þekli þöyledir: 1kqHKEYYC8CQPxyV53nCju3kk2ufpQqA2"
+  },
+  {
+    "Title": "Attack %51",
+    "Description": "Kripto paralardan herhangi birinin madenciliðinin %50’den fazlasýný tek bir kiþi ya da organizasyonun yapmasýna verilen addýr. Ýþlem gücü, %50’nin üzerinde üretim yapacak kiþi ya da organizasyona geçeceði için “kripto paranýn otoritesi” anlamýna gelir."
+  },
+  {
+    "Title": "Altcoin",
+    "Description": "Sayýlarý 1000’i aþan altcoin’ler, Bitcoin’e alternatif olarak çýkmýþ kripto para türleridir. Türkiye’de en çok tercih edilenler ise Ripple, Ethereum, Litecoin ve IOTA’dýr"
+  },
+  {
+    "Title": "Anti Money Laundering (Kara Para Aklamayý Önleme)",
+    "Description": "Kara para aklamayý önlemek için geliþtirilen sistemlerin tamamýdýr. Yani yasal yollarla elde edilmemiþ paranýn, yasal olarak gösterilmesini önleyen sistemlerin genel adýdýr. Mali Suçlarý Araþtýrma Kurulu (MASAK), Türkiye’de anti money laundering iþlemlerini yürütür."
+  },
+  {
+    "Title": "Arbitrage (Arbitraj)",
+    "Description": "Altýn, gümüþ, bakýr, hisse senedi, tahvil, para ve Bitcoin gibi ticarete konu olan tüm varlýk ve araçlarýn eþ zamanlý olarak farklý piyasalarda farklý fiyatlarla bulunmasý durumunda düþük fiyatlý piyasadan alýnýp yüksek fiyatlý piyasadan satýlmasýdýr."
+  },
+  {
+    "Title": "ASIC (Application-Specific Integrated Circuit)",
+    "Description": "Türkçesi “uygulamaya özgü tümleþik devreler” þeklindedir. Sadece bir iþi yerine getirebilmek için üretilmiþ, düþük enerji tüketimi ve yüksek verimliliðe sahip cihazlarýn genel adýdýr. Diðer iþlemci türlerinden farklý olarak hem hýzlý hem de verimlilerdir. Ancak tek yönlü olmalarý en önemli dezavantajlarýdýr."
+  },
+  {
+    "Title": "ASIC Miner",
+    "Description": "Bitcoin madenciliði için özel olarak kullanýlan ASIC sistemlerine verilen addýr. Düþük enerji tüketimi ve yüksek üretim kapasiteleri nedeniyle sýklýkla tercih edilirler."
+  },
+  {
+    "Title": "ATH",
+    "Description": "“En Yüksek Seviye (EYS)” kavramýnýn kýsaltmasýdýr. ATH, dijital para birimi piyasasýný takip edenler için oldukça yararlýdýr. Dijital para birimleri çok ani deðiþimlere uðrayabilen varlýklardýr ve bu nedenle EYS’lerini akýlda tutmakta fayda vardýr"
+  },
+  {
+    "Title": "Bearish",
+    "Description": "Normal piyasalar dýþýnda kripto para piyasasýnda da sýk sýk kullanýlan bir terimdir. Genellikle satýþ odaklý piyasayý tanýmlamak için kullanýlýr. Temel olarak bir mal varlýðýnýn deðer kaybedeceði düþüncesine sahip olan kiþilere bearish denir."
+  },
+  {
+    "Title": "Block",
+    "Description": "Türkçesi “blok” olan ve blok zinciri içerisinde yer alan iþlemleri onaylayan ya da içeren kayýttýr. Saatte ortalama 6 adet blok, madencilik iþlemleri ile blok zincirine eklenir. Bir zincir içerisinde yer alan bloglar da birbirleriyle etkileþim içerisinde olur."
+  },
+  {
+    "Title": "Blockchain",
+    "Description": "Bloklarýn birleþtirilmesi ile elde edilen blockchain’in Türkçesi blok zinciridir. Ýçerisinde yer alan bloklar ile daðýtýlmýþ bir muhasebe defterine benzer. Bloklar içerisinde yer alan bilgiler ile beraber devasa boyutlara ulaþýr ve çok sayýda iþlemi içerisinde barýndýrýr."
+  },
+  {
+    "Title": "Bullish",
+    "Description": "Bearish kavramýnýn tam tersidir. Bir hissenin ya da kripto paranýn deðer kazanacaðýný varsayarak “fiyat yükseltici nitelikte” bir tutum sergileyen kiþilerdir ve genellikle satýn alma yaparlar."
+  },
+  {
+    "Title": "Consensus",
+    "Description": "Türkçesi “uzlaþma” olan consensus; bir blockchain içerisinde yer alan tüm katýlýmcýlarýn, iþlemlerin gerçek ve þeffaf olduðuna mutabýk olduðunu anlatmak için kullanýlýr. Kýsacasý consensus, çeþitli katýlýmcýlarýn ayný bilgiye sahip olduðunu gösterir."
+  },
+  {
+    "Title": "Cryptocurrency",
+    "Description": "Türkçeye “kripto para” olarak çevrilir. Kriptografiye dayanan para birimlerinin genel adýdýr. Dünya üzerinde en bilinen kripto para ise Bitcoin’dir."
+  },
+  {
+    "Title": "DDoS Attack",
+    "Description": "Ýnternet üzerinde yer alan bir sisteme saldýrýlmasýna ve hizmetlerin geçici ya da kalýcý olarak aksaklýk yaþamasýna yol açan saldýrý türüne DDoS denir. "
+  },
+  {
+    "Title": "Escrow",
+    "Description": "Türkçesi “emanet” olan kavram, finansal kaynaklarýn diðer kullanýcýlar adýna üçüncü þahýslar tarafýndan kontrol edilmesine denir. Üçüncü þahýslar genellikle alýþveriþleri sýrasýnda birbirlerine güvenmez."
+  },
+  {
+    "Title": "Exchange",
+    "Description": "Farklý para formlarý ya da varlýklarýn alýþveriþi sýrasýnda kullanýlan merkezi noktadýr. Temel olarak kullanýcýlarýn kripto para birimi iþlemleri yapabildikleri pazar yerleridir."
+  },
+  {
+    "Title": "Fork",
+    "Description": "Türkçesi “çatallanma” olan sözcük, kripto paralarýn, protokollerin deðiþikliðe uðramasý durumunu ifade eder. Geliþtiriciler zaman zaman dijital para biriminin protokolünü günceller. Güncellemenin süresi, niteliði ve yapýsýna göre kalýcý ya da geçici olur."
+  },
+  {
+    "Title": "Long/Long Position",
+    "Description": "Fiyatlarýnýn yükseleceði beklentisiyle yapýlan mal veya menkul deðer alýmýna “long position” yani “uzun pozisyon almak” denir."
+  },
+  {
+    "Title": "Noob",
+    "Description": "Deneyimsiz kripto para kullanýcýlarýna verilen takma isimdir. Türkçeye “çaylak” olarak geçer."
+  },
+  {
+    "Title": "Private Key",
+    "Description": "Bir sayý ve harf dizisi olarak sunulan özel anahtar, bir yatýrýmcýnýn dijital para birimine eriþmek için kullanabileceði bir bilgidir."
+  },
+  {
+    "Title": "Public Key",
+    "Description": "Ortak anahtar, yatýrýmcýnýn dijital para birimi alabileceði bir adrestir. Bu ortak anahtar, özel anahtarda olduðu gibi sayý ve harf kombinasyonundan oluþur."
+  },
+  {
+    "Title": "Rekt",
+    "Description": "Dijital literatürde “mahvolmuþ” anlamýna gelir. Genellikle manipülatörlerin, geriye döndürülmesi zor bir zarar ile karþýlaþmasý durumunda kullanýlýr."
+  },
+  {
+    "Title": "Testnet",
+    "Description": "Test için kullanýlan ve maddi olarak deðeri olmayan kripto para birimlerine verilen isimdir."
+  },
+  {
+    "Title": "Virgin Bitcoin",
+    "Description": "Hiçbir iþlem görmemiþ Bitcoin’e verilen isimdir."
+  },
+  {
+    "Title": "Signature",
+    "Description": "Bitcoin iþleminin tanýmlý bir alandan geldiðini kanýtlamak için kullanýlan anahtarlarýn eþleþmesidir. Bir dijital özet olarak düþünülebilir."
+  },
+  {
+    "Title": "Tor",
+    "Description": "Online olarak kimliklerin gizlenmesini saðlayan protokoldür. Birçok kripto para kullanýcýsý tarafýndan tercih edilir."
+  },
+  {
+    "Title": "Wallet",
+    "Description": "Türkçesi cüzdandýr. Bitcoin’ler dijital ortamda bulunan wallet’larýn içerisinde saklanýr. Blockchain’de yer alan bloklar içerisindeki adresinizde wallet bulunur ve gizli anahtarýnýz sayesinde baðlanabilirsiniz."
+  }
+
+]

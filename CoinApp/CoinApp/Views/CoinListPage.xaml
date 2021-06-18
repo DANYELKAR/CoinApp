@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CoinApp.Views.CoinListPage">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <ActivityIndicator  x:Name="loading" BackgroundColor="Transparent" IsRunning="True" Color="Red" HorizontalOptions="Center" VerticalOptions="Center"></ActivityIndicator>
+
+            <ListView Grid.Row="0" x:Name="coinListView">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal">
+                                <StackLayout Orientation="Vertical">
+                                    <Label Text="{Binding Currency}" FontSize="16" TextColor="Black"></Label>
+                                    <Label Text="{Binding Rate}" FontSize="14" TextColor="Red"></Label>
+                                </StackLayout>
+                                <ImageButton Source="coin.png" WidthRequest="30" CommandParameter="{Binding .}" Clicked="ImageButton_Clicked"></ImageButton>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </Grid>
+        
+    </ContentPage.Content>
+</ContentPage>

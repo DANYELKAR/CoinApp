@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CoinApp.Views.MainPage"
+             xmlns:local="clr-namespace:CoinApp.Views"
+            NavigationPage.HasNavigationBar="False"
+            BarBackgroundColor="#ddd">
+    <TabbedPage.Children>
+        <local:CoinListPage Title="Coins" IconImageSource="coin.png"/>
+        <local:FavoritesPage Title="Favorites" IconImageSource="coin.png"/>
+        <local:DictionaryPage Title="Dictionary" IconImageSource="coin.png"/>
+
+    </TabbedPage.Children>
+
+</TabbedPage>

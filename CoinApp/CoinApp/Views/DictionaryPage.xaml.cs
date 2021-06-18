@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CoinApp.Service;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,9 +13,19 @@ namespace CoinApp.Views
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class DictionaryPage : ContentPage
     {
+        DictionaryAPIService service = new DictionaryAPIService();
         public DictionaryPage()
         {
             InitializeComponent();
+        }
+
+
+        protected async override void OnAppearing()
+        {
+            base.OnAppearing();
+            var response = await service.GetAllDictionaryAsync();
+            Console.WriteLine(response);
+
         }
     }
 }

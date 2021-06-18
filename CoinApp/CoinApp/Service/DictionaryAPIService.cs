@@ -10,7 +10,7 @@ namespace CoinApp.Service
 {
     public class DictionaryAPIService
     {
-        const string BASE_URL = "https://api.nomics.com/v1/exchange-rates?key=";
+        const string BASE_URL = "https://raw.githubusercontent.com/DANYELKAR/CoinApp/master/CoinApp/CoinApp/JsonDictionary/coinDictionary.json";
 
         HttpClient client;
 
